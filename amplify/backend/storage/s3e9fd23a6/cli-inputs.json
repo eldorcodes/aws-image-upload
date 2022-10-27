@@ -1,0 +1,18 @@
+{
+  "resourceName": "s3e9fd23a6",
+  "policyUUID": "e9fd23a6",
+  "bucketName": "expoimageuploadece8f96807584bc5a60633e4381179ef",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
